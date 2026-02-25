@@ -104,4 +104,4 @@ python main.py
 
 ## Author
 
-Andres Tenesaca
+Andres Tenesaca (ast7673)
